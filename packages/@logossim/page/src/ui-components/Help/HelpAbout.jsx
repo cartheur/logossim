@@ -90,16 +90,16 @@ const HelpAbout = ({ isOpen, handleClose }) => {
           <p style={{ textAlign: 'center' }}>
             If you want to know more about the project,{' '}
             <a
-              href="https://github.com/renato-bohler/logossim"
+              href="https://github.com/cartheur/logossim"
               target="_blank"
               rel="noopener noreferrer"
             >
-              check us out on GitHub!
+              check out this project on GitHub!
             </a>
           </p>
           <GitHubButton
             type="stargazers"
-            namespace="renato-bohler"
+            namespace="cartheur"
             repo="logossim"
           />
           <p style={{ textAlign: 'center' }}>
