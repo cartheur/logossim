@@ -1,10 +1,6 @@
 ![logossim](/assets/header.png)
 
-# :warning: Work in progress
-
-This is currently a work in progress.
-
-# What is this?
+# Node Logic-Circuit Simulator
 
 This is **logossim**, an open source digital logic simulator for the web, built to be easily extensible.
 
